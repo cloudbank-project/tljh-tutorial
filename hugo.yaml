@@ -1,0 +1,17 @@
+baseURL: https://cloudbank-project.github.io/tljh-tutorial
+languageCode: en-us
+title: The Littlest JupyterHub Tutorial
+theme: "tutelage"
+
+params:
+  lineNoMinThreshold: 4
+markup:
+  tableOfContents:
+    startLevel: 0
+    # endLevel: 5
+  highlight:
+    lineNos: true
+    anchorLineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
