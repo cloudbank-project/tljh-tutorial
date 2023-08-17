@@ -33,8 +33,8 @@ This is a good location to bookmark in your browser, as we will be returning her
 Here are a few elements that will be common to all console pages we visit:
 
 - At the top left of the page is a “Services” menu and a search box, both of which can be used to navigate to control panels for the various types of virtual hardware you can provision on the cloud.
-- At the very top right is our username and billing account that we are currently logged in as (blurred in the screenshot). Double check sure you’re logged into the proper billing account (the number after the @ sign), which for this workshop is `4298-6685-1652`
-- Next to the username is the current region (eg, data center) we are viewing resources for. We can click this to open a menu of other data centers to switch to, allowing us to geographically distribute our virtual resources across the world. For this workshop, make sure `Oregon` is selected.
+- At the very top right is our username and billing account that we are currently logged in as (username to the left of the @, account number to the right).
+- Next to the username is the current region (eg, data center) we are viewing resources for. We can click this to open a menu of other data centers to switch to, allowing us to geographically distribute our virtual resources across the world.
 - Finally, the icon that looks like a boxed `>_` can be clicked to open the AWS CloudShell, a Linux-style bash terminal from which we can do lightweight administration operations, run shell scripts, and use `ssh` to remote-login to virtual machines:
   
     ![Untitled](./img/Untitled%201.png)
