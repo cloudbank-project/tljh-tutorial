@@ -88,7 +88,7 @@ Configure your new virtual machine with the following options:
     
 - *Network Settings:* Make sure you check both “Allow HTTPS traffic from the internet” and “Allow HTTP traffic from the internet”, which are not enabled by default. This will configure the firewall to allow us to access the JupyterHub through our web browser with little fuss. 
 
-Although the rest of the defaults here work fine for us, observe the depth of the networking options; it’s possible to isolate VMs within the same cloud account by putting them on different virtual networks.
+    Although the rest of the defaults here work fine for us, observe the depth of the networking options; it’s possible to isolate VMs within the same cloud account by putting them on different virtual networks.
     
     ![Untitled](./img/Untitled%209.png)
 
